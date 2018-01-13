@@ -1,3 +1,3 @@
-print'Good Morning'
-print 'good afternoon'
-print 'Good Night'
+print'Good morning'
+print 'Good afternoon'
+print 'Good night'
